@@ -1,0 +1,20 @@
+{
+  "name": "expresspassportjwt",
+  "version": "1.0.0",
+  "description": "an app to demonstarte how to implement authentication using jwt",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omokehinde I.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "jsonwebtoken": "^8.0.1",
+    "lodash": "^4.17.4",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+An app to demonstrate how to use passport passport-jwt and jwt for authenticating express routes.
